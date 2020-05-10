@@ -1,0 +1,13 @@
+#navigation
+{
+    text-align: center;
+}
+
+button{
+    width: 200px;
+    height:50px;
+    font-size: x-large;
+    background-color: midnightblue;
+    color: white;
+    border-radius: 30px;
+}

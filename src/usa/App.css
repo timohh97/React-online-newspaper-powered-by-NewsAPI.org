@@ -1,0 +1,31 @@
+#article
+{
+  width: 600px;
+  background-color:rgb(255,255,255,0.8);
+  border-radius: 30px;
+  text-align: center;
+  margin-left: 450px;
+}
+
+a{
+  color: white;
+  background-color: green;
+  font-size: large;
+  text-decoration: none;
+}
+
+#picture
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#header
+{
+  float:right;
+  margin-bottom:-100px;
+  margin-right: -55px;
+}
+
